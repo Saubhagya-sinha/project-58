@@ -1,0 +1,37 @@
+.menu{
+    list-style:none;
+    font-family:fantasy;
+    position:absolute;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.links{
+    float:right;
+    color:aquamarine;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-right:9px;
+    padding-left:9px;
+    font-size:20px;
+}
+
+.links:hover{
+    background-color:purple;
+    font-size:30px; 
+}
+
+body{
+  background-color:blue;
+  text-align:center;
+  text-decoration-color:black;
+   font-family: 'Cinzel Decorative', cursive;
+    margin-top:100px; 
+}
+
+html{
+scroll-behavior: smooth
+}
+
